@@ -9,5 +9,8 @@ At the moment there are tons of great resources, including the indespensible htt
 however I often run into my own slightly odd issues and I find that documenting my solutions, thoughts, and simply rants
 can help my future self if I come across similar issues.
 
-At the moment, GitHub pages seems like the best cross between allowing somewhat custom content (via Jekyll integration), 
-so here I am.
+Currently GitHub pages seems like the best cross between allowing somewhat custom content (via Jekyll integration), 
+and and easy setup so here I am.  I've run my own servers and such but for my personal ramblings I'm not 
+in the mood any more to experiment.  Plus with the various security threats now, keeping web servers updated 
+is a much more fulltime job than when you could just connect an old box up in your dorm room and 
+load up FreeBSD.

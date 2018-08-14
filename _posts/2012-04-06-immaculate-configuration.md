@@ -2,6 +2,7 @@
 layout: post
 title: Immaculate Configuration
 ---
+
 This is more of a rant than anything else. Today I was once 
 again fighting to try to externalize my Java web-app's initial configuration.
 
