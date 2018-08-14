@@ -17,7 +17,7 @@ title: "RrS Dev : Forgotten Variables"
 email: "dotperson@gmail.com"
 description: "My personal blog of development rants, ideas, and notes."
 baseurl: ""
-url: ""
+url: "https://rrsdev.github.io/"
 github_username: rrsdev
 
 # Build settings
