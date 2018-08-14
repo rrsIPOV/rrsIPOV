@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Limits of modularization: Gulp part 1
+title: Limits of Modularization Featuring Gulp
 ---
 
 I've been working on some client-side tooling, which unfortunately 

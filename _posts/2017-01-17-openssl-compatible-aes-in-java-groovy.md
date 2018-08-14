@@ -23,7 +23,7 @@ As it has several dependencies on older libraries this is worrying and I'd like 
 
 During my latest attempt, I decided to again check google to see if I could locate 
 any libraries or sample code. I finally found 
-http://stackoverflow.com/questions/32508961/java-equivalent-of-an-openssl-aes-cbc-encryption 
+<http://stackoverflow.com/questions/32508961/java-equivalent-of-an-openssl-aes-cbc-encryption> 
 which has a nicely implemented Encoding method, but no decoding. I also was lucky enough to have access to a working C# source.
 
 The basic issue is that there are multiple ways to create a key and an initialization vector for 
@@ -32,7 +32,8 @@ to what Java supports in that they derive everything from the password using a c
 
 The end point of my ramblings is that by comparing the complete C# with the 
 partial (but cleanly written) Java I was able to work through with some trial and 
-error to a working implementation (in Groovy, but converting to Java should be fairly trivial). I've copied a version to https://gist.github.com/rrsIPOV/4d0f6be7c58173c16e9edf9f97c7d7f2
+error to a working implementation (in Groovy, but converting to Java 
+should be fairly trivial). I've copied a version to <https://gist.github.com/rrsdev/4d0f6be7c58173c16e9edf9f97c7d7f2>
 
 If anyone is aware of a maintained library that supports OpenSSL compatible, 
 password based AES Cipher/encryption please let me know. My time on searching Stack Overflow 
